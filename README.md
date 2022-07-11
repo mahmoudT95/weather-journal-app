@@ -8,5 +8,5 @@
 
 ## how to use it 
 1.user must enter us zip code and feelings 
-1.press genrate btn 
-1.result will be shown in most recent entry
+2.press genrate btn 
+3.result will be shown in most recent entry
